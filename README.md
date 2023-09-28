@@ -6,21 +6,26 @@
   </div>
 
 
-<div align="center">
+
+<!-- 使用语言-->
+  <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Treelefe&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Treelefe&layout=compact" alt="Top Langs" />
   </a>
 </div>
 
 
-
-
-
 <div align="center">
-  <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Treelefe&theme=dracula&hide_border=true&show_icons=true" />
-</div>
-
+ <div style="display: flex; align-items: center; justify-content: space-between;">
+   <!-- 统计卡片 -->
+   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; text-align: center;">
+     <img src="https://github-readme-stats.vercel.app/api?username=Treelefe&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" />
+   </a>
+   
+   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Treelefe&theme=dracula&hide_border=true&show_icons=true" style="flex: 1; text-align: center;" />
+ </div>
+ </div>
 
 
 <!-- profile logo 个人资料徽标 -->
