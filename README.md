@@ -1,10 +1,25 @@
  <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to Treelefe's homepage&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to my homepage!&center=true&size=30" alt="Typing SVG" />
     </a>
   </div>
 
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Treelefe&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" />
+  </a>
+</div>
+
+
+
+
+
+<div align="center">
+  <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Treelefe&theme=dracula&hide_border=true&show_icons=true" />
+</div>
 
 
 
